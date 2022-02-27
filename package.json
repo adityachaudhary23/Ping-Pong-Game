@@ -1,0 +1,19 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "Ping Pong Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityachaudhary23/Ping-Pong-Game.git"
+  },
+  "author": "Aditya Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityachaudhary23/Ping-Pong-Game/issues"
+  },
+  "homepage": "https://github.com/adityachaudhary23/Ping-Pong-Game#readme"
+}
